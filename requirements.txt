@@ -8,4 +8,4 @@ pandas
 seaborn
 matplotlib
 argparse
-sklearn
+scikit-learn
